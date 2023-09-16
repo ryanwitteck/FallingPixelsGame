@@ -10,7 +10,7 @@
 
 ## [Description]
 
-For this game, I created a Falling Sands game. It has 7 elements: sand, water, stone, smoke, acid, block, and lava. Each element behaves differently, and can interact with each other. You are able to toggle these elements by pressing numbers 1-8, then place them on the screen by clicking. You can toggle an eraser by pressing 7, and you can wipe the screen by pressing the 'r' key. You can even increase/decrease your pen size by pressing '\[' and '\]' respectively. 
+This game has 7 elements: sand, water, stone, smoke, acid, block, and lava. Each element behaves differently, and can interact with each other. For example, water and lava can create stone, but lava turns stone into lava. There are other interactions for you to find! You are able to toggle these elements by pressing numbers 1-8, then place them on the screen by clicking. You can toggle an eraser by pressing 7, and you can wipe the screen by pressing the 'r' key. You can even increase/decrease your pen size by pressing '\[' and '\]' respectively. 
 
 ## [Inspiration & Help]
 This was originally a final project for one of my classes but has been vastly overhauled and improved upon.
