@@ -16,7 +16,7 @@ This game has 7 elements: sand, water, stone, smoke, acid, block, and lava. Each
 This was originally a final project for one of my classes but has been vastly overhauled and improved upon.
 * *(https://www.youtube.com/watch?v=5Ka3tbbT-9E)*
 * *(https://www.youtube.com/watch?v=VLZjd_Y1gJ8)*
-* *(https://blog.winter.dev/2020/falling-sand-games)*
+
 
 ## [How to Compile and Run]
 
